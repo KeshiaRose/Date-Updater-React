@@ -5,7 +5,7 @@ No longer will you need to employ crazy hacks or manually update your date param
 
 Download and install the Beta 2 version of Tableau Desktop from the [Tableau Prerelease Site](https://prerelease.tableau.com) site. 
 
-Download the Dynamic Parameter [manifest file](https://keshiarose.github.io/Date-Updater-React/DateUpdater.trex). 
+Download the Date Updater [manifest file](https://keshiarose.github.io/Date-Updater-React/DateUpdater.trex). 
 
 ## Using the Extension
 1. Bring in the extension
