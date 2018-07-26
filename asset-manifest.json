@@ -1,6 +1,9 @@
 {
-  "main.css": "static/css/main.bbf6ff22.css",
-  "main.css.map": "static/css/main.bbf6ff22.css.map",
-  "main.js": "static/js/main.109d3a76.js",
-  "main.js.map": "static/js/main.109d3a76.js.map"
+  "main.css": "static/css/main.ca769681.css",
+  "main.css.map": "static/css/main.ca769681.css.map",
+  "main.js": "static/js/main.6d16bd4f.js",
+  "main.js.map": "static/js/main.6d16bd4f.js.map",
+  "static\\media\\BentonSans-Book.woff": "static/media/BentonSans-Book.1fe832cf.woff",
+  "static\\media\\BentonSans-Light.woff": "static/media/BentonSans-Light.739902af.woff",
+  "static\\media\\BentonSans-Medium.woff": "static/media/BentonSans-Medium.94f969c3.woff"
 }
