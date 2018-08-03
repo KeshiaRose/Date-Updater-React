@@ -1,3 +1,5 @@
+>**This version of the extension is for testing. Please go to the [Extension Gallery](https://extensiongallery.tableau.com/products/28) for the latest official version.**
+
 # Date Updater
 No longer will you need to employ crazy hacks or manually update your date parameters. This extension allows you to refresh any date parameter to today's date whenever a workbook is opened.
 
